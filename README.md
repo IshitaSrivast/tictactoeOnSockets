@@ -9,4 +9,4 @@ Open another terminal and go into the proj_server director and enter the command
 `npm install` <br>
 `node server.js` <br>
 Use the newtowk IP given in two browsers to run the multiplayer game. <br>
-![alt text](https://github.com/IshitaSrivast/tictactoeSockets/blob/main/assets/Screenshot.png)
+![alt text](https://github.com/IshitaSrivast/tictactoeOnSockets/blob/main/assets/Screenshot.png)
