@@ -6,7 +6,7 @@ const io = require('socket.io')(server, {
     }
 });
 io.on('connection', (socket)=> {
-    socket.emit("hello", "youtube tutorial");
+    socket.emit("hello", "DEAR PLAYER");
     socket.on("play", index => {
         console.log("server received", index)
         socket.broadcast.emit("play", index)
