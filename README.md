@@ -10,3 +10,5 @@ Open another terminal and go into the proj_server director and enter the command
 `node server.js` <br>
 Use the newtowk IP given in two browsers to run the multiplayer game. <br>
 ![alt text](https://github.com/IshitaSrivast/tictactoeOnSockets/blob/main/assets/Screenshot.png)
+
+Socket.io has been used for communication between two clients via server using the Socket Programming
